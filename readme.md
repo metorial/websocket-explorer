@@ -19,9 +19,13 @@ We needed a simple tool to test and debug our Websocket APIs. We couldn't find o
 
 Metorial Websocket Explorer aims to be fully featured, yet super simple to use. It allows you to open multiple connections next to each other so you can make sure that broadcasting works as expected. It also has built-in support for JSON messages, so you get nice syntax highlighting and formatting.
 
+## Screenshot
+
+![Metorial Websocket Explorer Screenshot](./assets/screenshot.webp)
+
 ## Usage
 
-We have a hosted instance at `https://websocket-explorer.metorial.com` (not signups or logins required). You can also run your own instance by following the instructions below.
+We have a hosted instance at [`https://websocket-explorer.metorial.com`](https://websocket-explorer.metorial.com) (no signup required). You can also run your own instance by following the instructions below.
 
 ### Installation
 
